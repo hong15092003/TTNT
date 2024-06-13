@@ -1,0 +1,1696 @@
+[
+    {
+        "questionNumber": "Câu 1:",
+        "questionText": "Phát biểu nào sau đây đúng với trí tuệ nhân tạo",
+        "answers": [
+            {
+                "answerText": "Là một lĩnh vực nghiên cứu của khoa học máy tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Xây dựng các hệ thống thông minh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ra đời từ những năm 1950",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 2:",
+        "questionText": "Tác tử hợp lý là tác tử",
+        "answers": [
+            {
+                "answerText": "Suy nghĩ hợp lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hành động hợp lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Suy nghĩ hợp lý hoặc hành động hợp lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Suy nghĩ hợp lý và hành động hợp lý</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 3:",
+        "questionText": "Các thành phần cơ bản của một tác tử thông minh",
+        "answers": [
+            {
+                "answerText": "Cảm biến",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bộ điều khiển",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cảm biến hoặc Bộ điều khiển",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Cảm biến và bộ điều khiển</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 4:",
+        "questionText": "Môi trường",
+        "answers": [
+            {
+                "answerText": "Ảnh hưởng đến cảm nhận của tác tử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Bị ảnh hưởng bởi các hành động của tác tử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Là các yếu tố xung quanh mà ta cần quan tâm khi thiết kế tác tử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả các yếu tố đã nói</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 5:",
+        "questionText": "Tác tử tự trị",
+        "answers": [
+            {
+                "answerText": "Được cung cấp một số tri thức ban đầu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Có khả năng tự học",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hành vi có thể khác với ban đầu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả những điều đã nói</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 6:",
+        "questionText": "Khi mô tả môi trường nhiệm vụ (task environment), ngoài cảm biến và bộ điều khiển, cần mô tả những gì sau đây:",
+        "answers": [
+            {
+                "answerText": "Cách đánh giá hiệu suất",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Môi trường",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Cả cách đánh giá hiệu suất và môi trường</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Còn có yếu tố khác",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 7:",
+        "questionText": "Môi trường của tác tử lái xe taxi tự động có những tính chất nào sau đây:",
+        "answers": [
+            {
+                "answerText": "Quan sát được một phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đa tác tử",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Quan sát được hoàn toàn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Quan sát được một phần và đa tác tử</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 8:",
+        "questionText": "Môi trường của tác tử chơi cờ không tính giờ có những tính chất nào sau đây:",
+        "answers": [
+            {
+                "answerText": "Xác định",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tĩnh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Xác định và tĩnh</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 9:",
+        "questionText": "Tác tử phản xạ đơn giản không sử dụng những gì sau đây",
+        "answers": [
+            {
+                "answerText": "Tập luật điều kiện-hành động",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cảm nhận hiện tại",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Chuỗi cảm nhận</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tất cả các ý đã nói",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 10:",
+        "questionText": "Tác tử phản xạ dựa trên mô hình không sử dụng những gì sau đây:",
+        "answers": [
+            {
+                "answerText": "Tập luật điều kiện-hành động",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trạng thái bên trong",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Chuỗi cảm nhận</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Chỉ cảm nhận hiện tại",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 11:",
+        "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "answers": [
+            {
+                "answerText": "Tác tử có khả năng tự học",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tác tử phản xạ dựa trên mô hình</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tác tử dựa trên mục tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tác tử dựa trên tính hữu ích",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 12:",
+        "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "answers": [
+            {
+                "answerText": "Tác tử có khả năng tự học",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tác tử phản xạ dựa trên mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tác tử dựa trên mục tiêu</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tác tử dựa trên tính hữu ích",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 13:",
+        "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "answers": [
+            {
+                "answerText": "Tác tử có khả năng tự học",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tác tử phản xạ dựa trên mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tác tử dựa trên mục tiêu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tác tử dựa trên tính hữu ích</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 14:",
+        "questionText": "Thứ tự nào sau đây là thứ tự tìm kiếm theo chiều  (Depth first search) của đồ thị sau (Hình vẽ)",
+        "answers": [
+            {
+                "answerText": "d, b, g, e, a, c, i, h, j, f",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>a, b, d, e, g, c, f, h, i, j</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "d, g, e, b, i, j, h, f, c, a",
+                "isCorrect": false
+            },
+            {
+                "answerText": "a, b, c, d, e, f, g, h, i, j",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 15:",
+        "questionText": "Thứ tự nào sau đây là thứ tự tìm kiếm theo chiều rộng (Breadth first search) của đồ thị sau (Hình vẽ)",
+        "answers": [
+            {
+                "answerText": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>1, 2, 5, 9, 3, 6, 8, 10, 4, 7</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "1, 2, 3, 4, 5, 9, 6, 8, 10, 7",
+                "isCorrect": false
+            },
+            {
+                "answerText": "1, 2, 5, 9, 3, 4, 6, 7, 8, 10",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 16:",
+        "questionText": "Trong tìm kiếm theo chiều rộng (Breadth first search) tập biên (frontier/fringe) là một cấu trúc",
+        "answers": [
+            {
+                "answerText": "<mark>kiểu hàng đợi FIFO</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "kiểu hàng đợi LIFO (ngăn xếp)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "kiểu hàng đợi ưu tiên (trong đó các phần tử được sắp xếp theo giá trị hàm f)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 17:",
+        "questionText": "Trong tìm kiếm theo chiều sâu  (Depth first search) tập biên (frontier/fringe) là một cấu trúc",
+        "answers": [
+            {
+                "answerText": "kiểu hàng đợi FIFO",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>kiểu hàng đợi LIFO (ngăn xếp)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "kiểu hàng đợi ưu tiên (trong đó các phần tử được sắp xếp theo giá trị hàm f)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 18:",
+        "questionText": "Trong tìm kiếm với chi phí nhỏ nhất (Uniform cost search) tập biên (frontier/fringe) được cài đặt theo cấu trúc",
+        "answers": [
+            {
+                "answerText": "kiểu hàng đợi FIFO",
+                "isCorrect": false
+            },
+            {
+                "answerText": "kiểu hàng đợi LIFO (ngăn xếp)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>kiểu hàng đợi ưu tiên (trong đó các phần tử được sắp xếp theo chi phí quãng đường từ nút xuất phát đến nút đang xét)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 19:",
+        "questionText": "Với độ sâu của lời giải d và hệ số phân nhánh b thì tìm kiếm sâu dần (iterative deepening search) có độ phức tạp về thời gian là:",
+        "answers": [
+            {
+                "answerText": "<mark>O(b^d) (b mũ d)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "O(bd)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "O(b^(d/2)) (b mũ d/2)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 20:",
+        "questionText": "Với độ sâu của lời giải d và hệ số phân nhánh b thì tìm kiếm sâu dần (iterative deepening search) có độ phức tạp về bộ nhớ là:",
+        "answers": [
+            {
+                "answerText": "O(b^d) (b mũ d)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>O(bd)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "O(b^(d/2)) (b mũ d/2)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 21:",
+        "questionText": "Chiến lược tìm kiếm với chi phí nhỏ nhất (UCS - Uniform Cost Search) sẽ trở thành chiến lược tìm kiếm nào sau đây nếu các chi phí ở mỗi bước (mỗi cạnh của cây tìm kiếm) là như nhau.",
+        "answers": [
+            {
+                "answerText": "<mark>Tìm kiếm theo chiều rộng (Breadth first search)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tìm kiếm theo chiều sâu (Depth first search)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tìm kiếm theo độ sâu giới hạn (Depth limited search)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tìm kiếm sâu dần (Iterative deepening search)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 22:",
+        "questionText": "Tìm kiếm tham lam Greedy best-first search sử dụng hàm đánh giá nào sau đây:",
+        "answers": [
+            {
+                "answerText": "f(n) = g(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>f(n) = h(n)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "f(n) = h(n) + g(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 23:",
+        "questionText": "Tìm kiếm A* sử dụng hàm đánh giá nào sau đây:",
+        "answers": [
+            {
+                "answerText": "f(n) = g(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "f(n) = h(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>f(n) = h(n) + g(n)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 24:",
+        "questionText": "Trong giải thuật tìm kiếm A*, gọi h*(n) là chi phí thực tế để đi từ nút n đến đích thì hàm heuristic h(n) nào dưới đây được xem là chấp nhận được nếu đối với mọi nút n:",
+        "answers": [
+            {
+                "answerText": "<mark>0≤h(n)≤ h*(n)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "h(n)> h*(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Có thể h(n)≤ h*(n) hoặc h(n)>h*(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 25:",
+        "questionText": "Khi áp dụng giải thuật tìm kiếm A* đối với trò chơi 8 số (8-puzzle) ta có thể sử dụng các hàm heuristic sau:\nh1 (n) = tổng số dịch chuyển ít nhất để đưa các ô số nằm sai vị trí về vị trí đúng\nh2 (n) = tổng số các ô số nằm sai vị trí so với ở trạng thái đích\nTrong 2 hàm trên thì",
+        "answers": [
+            {
+                "answerText": "<mark>Hàm h1(n) ưu thế hơn/vượt trội hơn hàm h2(n)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Hàm h1(n) ưu thế hơn/vượt trội hơn hàm h2(n)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Không hàm nào vượt trội hơn hàm nào",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 26:",
+        "questionText": "Phát biểu nào dưới đây không đúng với điểm cực đại địa phương trong thuật toán tìm kiếm leo đồi:",
+        "answers": [
+            {
+                "answerText": "Mọi trạng thái lân cận của nó đều không tốt hơn nó",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khi gặp điểm cực đại địa phương, thuật toán leo đồi sẽ không thoát ra được",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Là trạng thái tốt nhất trong toàn bộ các trạng thái</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Không phải là trạng thái tốt nhất",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 27:",
+        "questionText": "Để thoát khỏi các điểm cực đại địa phương, thuật toán mô phỏng tôi thép (simulated annealing) cho phép làm điều gì sau đây:",
+        "answers": [
+            {
+                "answerText": "Chuyển đến trạng thái lân cận xấu hơn theo một xác suất nào đó",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Xác suất chuyển đến trạng thái xấu hơn giảm khi nhiệt độ giảm dần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Xác suất chuyển đến trạng thái xấu hơn giảm khi mức độ chênh lệch của hàm mục tiêu giữa trạng thái hiện tại và trạng thái kế tiếp tăng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 28:",
+        "questionText": "Logic là ngôn ngữ hình thức bao gồm những gì sau đây:",
+        "answers": [
+            {
+                "answerText": "Cú pháp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ngữ nghĩa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Cú pháp và Ngữ nghĩa</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cú pháp hoặc Ngữ nghĩa",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 29:",
+        "questionText": "Phát biểu nào sau đây không đúng về diễn giải và mô hình:",
+        "answers": [
+            {
+                "answerText": "Một mô hình là một diễn giải",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Một diễn giải chưa chắc là một mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Diễn giải giống như mô hình</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Diễn giải xác định một biểu thức là đúng hoặc sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 30:",
+        "questionText": "Nếu mệnh đề α là hệ quả logic của một cơ sở tri thức KB thì phát biểu nào sau đây không đúng:",
+        "answers": [
+            {
+                "answerText": "KB đúng thì α đúng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Một mô hình của KB cũng là một mô hình của α",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Một diễn giải của KB cũng là một diễn giải của α",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Một mô hình của α cũng là một mô hình của KB</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 31:",
+        "questionText": "Logic nào sau đây sử dụng các lượng tử với mọi và tồn tại",
+        "answers": [
+            {
+                "answerText": "Logic mệnh đề",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Logic vị từ</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Cả logic mệnh đề và logic vị từ đều sử dụng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Logic mệnh đề sử dụng với mọi, còn logic vị từ sử dụng tồn tại",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 32:",
+        "questionText": "Không có cách chứng minh nào sau đây trong logic mệnh đề và vị từ:",
+        "answers": [
+            {
+                "answerText": "Lập bảng chân lý",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng các luật suy diễn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng hợp giải Robinson",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Sử dụng chứng minh quy nạp</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 33:",
+        "questionText": "Biểu thức nào sau đây ở dạng chuẩn hội:",
+        "answers": [
+            {
+                "answerText": "<mark>(α∨β∨γ)∧(β∨γ∨δ)</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "(α∧β∧γ)∨(β∧γ∧δ)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "(α∧β∨γ)∧(β∧γ∧δ)",
+                "isCorrect": false
+            },
+            {
+                "answerText": "(α∨β∨γ)∨(β∨γ∨δ)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 34:",
+        "questionText": "Phát biểu nào sau đây không đúng với phương pháp chứng minh hợp giải Robinson:",
+        "answers": [
+            {
+                "answerText": "Cần phủ định kết luận",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng luật suy diễn hợp giải",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng phương pháp phản chứng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Các biểu thức cần được đưa về dạng chuẩn tuyển</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 35:",
+        "questionText": "Cho cơ sở tri thức KB bên phải. Sử dụng phương pháp chứng minh hợp giải Robinson, ta chứng minh được kết quả nào sau đây: (Hình ảnh)",
+        "answers": [
+            {
+                "answerText": "c",
+                "isCorrect": false
+            },
+            {
+                "answerText": "d",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>c∧d</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tất cả",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 36:",
+        "questionText": "Cho cơ sở tri thức KB ở bên phải. Ta không chứng minh được kết quả nào sau đây: (Hình ảnh)",
+        "answers": [
+            {
+                "answerText": "u",
+                "isCorrect": false
+            },
+            {
+                "answerText": "w",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>v</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "t",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 37:",
+        "questionText": "Biểu thức nào sau đây ở dạng chuẩn Horn:",
+        "answers": [
+            {
+                "answerText": "<mark>a∧b∧c⇒p</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "a∨(b∧c)⇒p",
+                "isCorrect": false
+            },
+            {
+                "answerText": "a∧b∧c⇒p∧q",
+                "isCorrect": false
+            },
+            {
+                "answerText": "a∧b∧c⇒p∨q",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 38:",
+        "questionText": "Luật nào sau đây là luật suy diễn hợp giải:",
+        "answers": [
+            {
+                "answerText": "a, a⇒b ⊢ b",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>a∨b, ¬b∨c ⊢ a∨c</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "¬b, a⇒b ⊢ ¬a",
+                "isCorrect": false
+            },
+            {
+                "answerText": "a⇒b ⊢ ¬a∨b",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 39:",
+        "questionText": "Luật nào sau đây là luật suy diễn Modus Ponens:",
+        "answers": [
+            {
+                "answerText": "<mark>a, a⇒b ⊢ b</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "a∨b, ¬b∨c ⊢ a∨c",
+                "isCorrect": false
+            },
+            {
+                "answerText": "¬b, a⇒b ⊢ ¬a",
+                "isCorrect": false
+            },
+            {
+                "answerText": "a⇒b ⊢ ¬a∨b",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 40:",
+        "questionText": "Biểu thức nào sau đây là biểu diễn của phát biểu “Tất cả các sinh viên đều trẻ”:",
+        "answers": [
+            {
+                "answerText": "<mark>∀X (Sinh_vien(X)⇒Tre(X))</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "∀X (Sinh_vien(X)∧Tre(X))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "∀X (Sinh_vien(X)∧¬Gia(X))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 3 biểu thức đều được",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 41:",
+        "questionText": "Biểu thức nào sau đây là biểu diễn của phát biểu “Có sinh viên không trẻ”:",
+        "answers": [
+            {
+                "answerText": "∃X (Sinh_vien(X)⇒¬Tre(X))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>∃X (Sinh_vien(X)∧¬Tre(X))</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "∃X (¬Tre(X)⇒Sinh_vien(X))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Cả 3 biểu thức đều được",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 42:",
+        "questionText": "Biểu thức nào sau đây là biểu diễn của phát biểu “Mỗi sinh viên đều thích một môn học nào đó”:",
+        "answers": [
+            {
+                "answerText": "<mark>∀X∃Y (Sinh_vien(X)⇒Mon_hoc(Y)∧Thich(X,Y))</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "∃X∃Y (Sinh_vien(X)∧Mon_hoc(Y)∧Thich(X,Y))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "∀X∃Y (Sinh_vien(X)∧Mon_hoc(Y)∧Thich(X,Y))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "∀X∀Y (Sinh_vien(X)∧Mon_hoc(Y)∧Thich(X,Y))",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 43:",
+        "questionText": "Biểu thức nào sau đây là biểu diễn của phát biểu “Có sinh viên không thích một môn học nào cả”:",
+        "answers": [
+            {
+                "answerText": "∃X∀Y (Sinh_vien(X)⇒Mon_hoc(Y)∧¬Thich(X,Y))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "∃X∃Y (Sinh_vien(X)∧Mon_hoc(Y)⇒¬Thich(X,Y))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "∃X∃Y (Sinh_vien(X)∧Mon_hoc(Y)∧¬Thich(X,Y))",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>∃X∀Y (Sinh_vien(X)∧Mon_hoc(Y)⇒¬Thich(X,Y))</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 44:",
+        "questionText": "Phát biểu nào sau đây đúng với học máy?",
+        "answers": [
+            {
+                "answerText": "Là một nhánh của trí tuệ nhân tạo",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Trong đó có học sâu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Xây dựng các hệ thống có khả năng tự học",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 45:",
+        "questionText": "Kỹ thuật học máy phân lớp thuộc loại nào sau đây?",
+        "answers": [
+            {
+                "answerText": "học không giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>học có giám sát</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "học bán giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "học tăng cường",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 46:",
+        "questionText": "Kỹ thuật học máy hồi quy thuộc loại nào sau đây?",
+        "answers": [
+            {
+                "answerText": "học không giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>học có giám sát</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "học bán giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "học tăng cường",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 47:",
+        "questionText": "Kỹ thuật học máy phân cụm thuộc loại nào sau đây?",
+        "answers": [
+            {
+                "answerText": "<mark>học không giám sát</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "học có giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "học bán giám sát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "học tăng cường",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 48:",
+        "questionText": "Đầu ra của một mô hình hồi quy (regression) thường là gì?",
+        "answers": [
+            {
+                "answerText": "là một nhãn lớp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>là một giá trị số</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "có số lượng không thể quá lớn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "tất cả đều đúng",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 49:",
+        "questionText": "Đầu ra của một mô hình phân lớp là gì?",
+        "answers": [
+            {
+                "answerText": "<mark>là một nhãn lớp</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "là một giá trị số",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có thể có số lượng vô hạn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "tất cả đều đúng",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 50:",
+        "questionText": "Phát biểu nào sau đây không đúng với hồi quy tuyến tính.",
+        "answers": [
+            {
+                "answerText": "Biểu diễn bằng một hàm tuyến tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thường phù hợp với các bài toán có dữ liệu phân bố tương đối tuyến tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Là một kỹ thuật học không giám sát</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 51:",
+        "questionText": "Phát biểu nào sau đây là đúng với hồi quy tuyến tính?",
+        "answers": [
+            {
+                "answerText": "Biểu diễn bằng một hàm tuyến tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thường phù hợp với các bài toán có dữ liệu phân bố tương đối tuyến tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nhạy cảm với nhiễu/trường hợp ngoại lệ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 52:",
+        "questionText": "Phát biểu nào sau đây đúng với hàm mất mát trong các thuật toán học máy?",
+        "answers": [
+            {
+                "answerText": "đo hiệu suất của mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "giá trị càng nhỏ càng tốt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "việc tìm giá trị tốt thường được thực hiện bằng phương pháp gradient descent",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 53:",
+        "questionText": "Phát biểu nào đúng với phương pháp cập nhật tham số gradient descent?",
+        "answers": [
+            {
+                "answerText": "giá trị cộng vào tham số luôn ngược dấu với đạo hàm của hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "trị tuyệt đối của giá trị cộng vào tỷ lệ thuận với đạo hàm của hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "hệ số tốc độ học có ảnh hưởng đến tốc độ hội tụ của mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 54:",
+        "questionText": "Phát biểu nào đúng với hệ số tốc độ học (learning rate) trong phương pháp gradient descent?",
+        "answers": [
+            {
+                "answerText": "tốc độ học càng cao mô hình càng hội tụ nhanh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "tốc độ học có thể là một giá trị số bất kỳ",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tốc độ học không nên quá cao và không nên quá thấp</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "tốc độ học thấp quá mô hình không thể hội tụ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 55:",
+        "questionText": "Phát biểu nào sau đây không đúng với hồi quy logistic?",
+        "answers": [
+            {
+                "answerText": "Thường dùng cho bài toán phân hai lớp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng hàm logistic/sigmoid",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Dùng để dự đoán một giá trị số</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Có thể sử dụng nhiều dạng hàm mất mát",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 56:",
+        "questionText": "Phát biểu nào sau đây là đúng với hồi quy logistic?",
+        "answers": [
+            {
+                "answerText": "Là một kỹ thuật phân lớp tuyến tính",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng lý thuyết xác suất",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Có thể sử dụng nhiều dạng hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 57:",
+        "questionText": "Phát biểu nào sau đây là đúng với một mạng nơ ron nhân tạo?",
+        "answers": [
+            {
+                "answerText": "Thành phần nhỏ nhất là các nơ ron nhân tạo",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Các nơ ron nhân tạo được kết nối với nhau",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Các nơ ron nhân tạo được bố trí vào các tầng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 58:",
+        "questionText": "Hàm kích hoạt của một nơ ron nhân tạo thường là những hàm nào?",
+        "answers": [
+            {
+                "answerText": "hàm sigmoid",
+                "isCorrect": false
+            },
+            {
+                "answerText": "hàm tanh",
+                "isCorrect": false
+            },
+            {
+                "answerText": "hàm ReLU",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 59:",
+        "questionText": "Phát biểu nào sau đây là đúng về một mạng nơ ron nhân tạo?",
+        "answers": [
+            {
+                "answerText": "gồm nhiều nơ ron",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có nhiều tầng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có thể không có, có một hoặc nhiều tầng ẩn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 60:",
+        "questionText": "Phát biểu nào sau đây đúng về một mạng nơ ron nhân tạo?",
+        "answers": [
+            {
+                "answerText": "có một tầng vào",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có một tầng ra",
+                "isCorrect": false
+            },
+            {
+                "answerText": "tầng vào không được tính vào số tầng của mô hình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 61:",
+        "questionText": "Phát biểu nào sau đây đúng về thuật toán học lan truyền ngược?",
+        "answers": [
+            {
+                "answerText": "không quan tâm đến hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>cập nhật các trọng số kết nối và bias của các nơ ron</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "mỗi vòng lặp chỉ gồm một bước thực hiện theo chiều ngược từ tầng ra đến tầng vào",
+                "isCorrect": false
+            },
+            {
+                "answerText": "tất cả đều đúng",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 62:",
+        "questionText": "Phát biểu nào sau đây đúng về thuật toán học lan truyền ngược?",
+        "answers": [
+            {
+                "answerText": "mục đích là làm giảm hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "mỗi vòng lặp gồm hai bước",
+                "isCorrect": false
+            },
+            {
+                "answerText": "số lượng điểm dữ liệu được sử dụng ở mỗi vòng lặp là một, tất cả hoặc một phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 63:",
+        "questionText": "Phát biểu nào sau đây đúng về mạng nơ ron nhân tạo?",
+        "answers": [
+            {
+                "answerText": "dễ dàng xác định được số nơ ron ở tầng ra cho một bài toán cụ thể",
+                "isCorrect": false
+            },
+            {
+                "answerText": "không dùng được cho bài toán hồi quy",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>không dùng được cho bài toán phân lớp</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "tất cả đều đúng",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 64:",
+        "questionText": "Phát biểu nào sau đây không đúng về mô hình mạng nơ ron nhân tạo cho một bài toán cụ thể?",
+        "answers": [
+            {
+                "answerText": "mô hình không nên quá phức tạp so với dữ liệu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "khi số lượng nơ ron ở tầng ẩn tăng lên thì độ chính xác trên tập dữ liệu huấn luyện tăng",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>số lượng nơ ron càng nhiều càng tốt</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "có thể xấp xỉ được tất cả các hàm liên tục",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 65:",
+        "questionText": "Phát biểu nào sau đây không đúng về học sâu?",
+        "answers": [
+            {
+                "answerText": "Là một nhánh của mạng nơ ron nhân tạo",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Hiện được sử dụng rộng rãi trong các mô hình học máy tiên tiến",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Mô hình không quá phức tạp</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Có các thư viện lập trình được phát triển bởi các tập đoàn lớn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 66:",
+        "questionText": "Phát biểu nào sau đây đúng về thành công của học sâu?",
+        "answers": [
+            {
+                "answerText": "Sự ra đời của các bộ dữ liệu lớn được gán nhãn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Khả năng tính toán song song tốc độ cao của GPU",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sự cải tiến của các kiến trúc mạng tiên tiến",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 67:",
+        "questionText": "Thuật toán K-means clustering có những hạn chế nào sau đây:",
+        "answers": [
+            {
+                "answerText": "Cần biết trước số lượng cụm",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Nghiệm cuối cùng phụ thuộc vào các tâm cụm khởi tạo ban đầu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Các cụm cần có dạng hình tròn",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 68:",
+        "questionText": "Phát biểu nào sau đây không đúng đối với thuật toán K-means clustering:",
+        "answers": [
+            {
+                "answerText": "Phân cụm theo khoảng cách",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sử dụng hàm mất mát",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Mỗi vòng lặp gồm hai bước",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Kết quả các lần chạy khác nhau là như nhau</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 69:",
+        "questionText": "Phát biểu nào sau đây không đúng đối với thuật toán K-means clustering:",
+        "answers": [
+            {
+                "answerText": "Đầu vào cần chỉ rõ số cụm cần phân",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Đầu ra chỉ rõ các tâm cụm và nhãn cụm cho từng điểm dữ liệu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Mỗi bước ở vòng lặp cố định một yếu tố và xác định yếu tố còn lại",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Là một phương pháp học có giám sát</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 70:",
+        "questionText": "Hàm entropy H(S) = 0 cho ta biết tập S là:",
+        "answers": [
+            {
+                "answerText": "<mark>là tinh khiết nhất/đồng nhất</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "có độ pha trộn/hỗn loạn là cao nhất",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có độ pha trộn/hỗn loạn là trung bình",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tất cả đều sai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 71:",
+        "questionText": "Về mức tăng thông tin/độ lợi (Information Gain) trong thuật toán ID3, phát biểu nào sau đây là đúng:",
+        "answers": [
+            {
+                "answerText": "mức tăng thông tin được sử dụng để chọn thuộc tính phân hoạch",
+                "isCorrect": false
+            },
+            {
+                "answerText": "mức tăng thông tin càng lớn càng tốt",
+                "isCorrect": false
+            },
+            {
+                "answerText": "mức tăng thông tin = entropy nút cha – tổng có trọng số của entropy của các nút con",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 72:",
+        "questionText": "Trong thuật toán cây quyết định ID3 ta chọn thuộc tính để phân hoạch/phân nhánh",
+        "answers": [
+            {
+                "answerText": "có mức tăng thông tin/độ lợi (Information Gain) nhỏ nhất",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>có mức tăng thông tin/độ lợi lớn nhất</mark>",
+                "isCorrect": true
+            },
+            {
+                "answerText": "có entropy lớn nhất",
+                "isCorrect": false
+            },
+            {
+                "answerText": "có entropy nhỏ nhất",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 73:",
+        "questionText": "Phát biểu nào sau đây đúng với mô hình học tập thể",
+        "answers": [
+            {
+                "answerText": "Là một tập hợp các mô hình học máy cơ sở",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kết quả đầu ra là sự kết hợp kết quả của các mô hình thành phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thường có độ chính xác cao hơn các mô hình thành phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 74:",
+        "questionText": "Phát biểu nào sau đây không đúng với mô hình học tập thể",
+        "answers": [
+            {
+                "answerText": "Làm tăng khả năng biểu diễn dữ liệu so với các mô hình học máy cơ sở",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Kết quả đầu ra là sự kết hợp kết quả của các mô hình thành phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Là giảm phương sai so với các mô hình thành phần",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Các mô hình thành phần có thể giống nhau</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 75:",
+        "questionText": "Phát biểu nào sau đây không đúng với rừng ngẫu nhiên",
+        "answers": [
+            {
+                "answerText": "Có thể sử dụng cho bài toán phân lớp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Có thể sử dụng cho bài toán hồi quy",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Các mô hình cơ sở là các cây quyết định",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Để tạo ra các cây cơ sở đa dạng chỉ dùng phương pháp bagging</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 76:",
+        "questionText": "Phát biểu nào sau đây đúng với rừng ngẫu nhiên?",
+        "answers": [
+            {
+                "answerText": "Bộ dữ liệu của từng cây cơ sở được lựa chọn ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Tập thuộc tính xem xét phân chia tại mỗi nút cây được lựa chọn ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Giá trị điểm phân chia được lựa chọn để xem xét một cách ngẫu nhiên",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "questionNumber": "Câu 77:",
+        "questionText": "Phát biểu nào sau đây đúng với hiện tượng quá khớp?",
+        "answers": [
+            {
+                "answerText": "Độ chính xác trên tập dữ liệu huấn luyện cao",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Độ chính xác trên tập dữ liệu kiểm tra thấp",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Thường xảy ra khi mô hình quá phức tạp so với dữ liệu",
+                "isCorrect": false
+            },
+            {
+                "answerText": "<mark>Tất cả đều đúng</mark>",
+                "isCorrect": true
+            }
+        ]
+    }
+]
