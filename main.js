@@ -41,6 +41,7 @@ function displayQuiz(questions) {
                 // Hiển thị đáp án đúng
                 answerList.querySelectorAll('.correct-answer .answer-text').forEach(correctAnswer => {
                     correctAnswer.style.fontWeight = 'bold';
+                    correctAnswer.style.color = 'green';
                 });
             });
         });
@@ -48,29 +49,9 @@ function displayQuiz(questions) {
         questionDiv.appendChild(answerList);
         quizContainer.appendChild(questionDiv);
     });
-
     quizContainer.style.border = '2px solid #D9D9D9';
 
-    // quizContainer.appendChild(submitButton);
 
-
-    // // Xử lý submit
-    // quizContainer.querySelector('form').addEventListener('submit', function (event) {
-    //     event.preventDefault();
-
-    //     totalCorrect = 0;
-    //     questions.forEach((question, index) => {
-    //         const selectedAnswer = document.querySelector(`input[name="question-${index}"]:checked`);
-    //         if (selectedAnswer && selectedAnswer.value === 'true') {
-    //             totalCorrect++;
-    //             selectedAnswer.parentElement.style.color = 'green';
-    //         } else if (selectedAnswer) {
-    //             selectedAnswer.parentElement.style.color = 'red';
-    //         }
-    //     });
-
-    //     alert(`Bạn đã trả lời đúng ${totalCorrect}/${questions.length} câu hỏi.`);
-    // });
 }
 
 // Lấy dữ liệu từ file JSON và hiển thị
