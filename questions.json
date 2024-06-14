@@ -291,6 +291,7 @@
     {
         "questionNumber": "Câu 14:",
         "questionText": "Thứ tự nào sau đây là thứ tự tìm kiếm theo chiều  (Depth first search) của đồ thị sau (Hình vẽ)",
+        "image": "assets/14.png",
         "answers": [
             {
                 "answerText": "d, b, g, e, a, c, i, h, j, f",
@@ -313,6 +314,7 @@
     {
         "questionNumber": "Câu 15:",
         "questionText": "Thứ tự nào sau đây là thứ tự tìm kiếm theo chiều rộng (Breadth first search) của đồ thị sau (Hình vẽ)",
+        "image": "assets/15.png",
         "answers": [
             {
                 "answerText": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
