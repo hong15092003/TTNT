@@ -41,6 +41,10 @@ body {
     opacity: 0.2;
 }
 
+.question img {
+    max-width: 400px;
+}
+
 div form label {
     display: flex;
     flex-wrap: nowrap;
