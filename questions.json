@@ -222,6 +222,7 @@
     {
         "questionNumber": "Câu 11:",
         "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "image": "assets/11.png",
         "answers": [
             {
                 "answerText": "Tác tử có khả năng tự học",
@@ -244,6 +245,7 @@
     {
         "questionNumber": "Câu 12:",
         "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "image": "assets/12.png",
         "answers": [
             {
                 "answerText": "Tác tử có khả năng tự học",
@@ -266,6 +268,7 @@
     {
         "questionNumber": "Câu 13:",
         "questionText": "Hình vẽ sau là loại tác tử nào? (Hình vẽ)",
+        "image": "assets/13.png",
         "answers": [
             {
                 "answerText": "Tác tử có khả năng tự học",
@@ -750,6 +753,7 @@
     {
         "questionNumber": "Câu 35:",
         "questionText": "Cho cơ sở tri thức KB bên phải. Sử dụng phương pháp chứng minh hợp giải Robinson, ta chứng minh được kết quả nào sau đây: (Hình ảnh)",
+        "image": "assets/35.png",
         "answers": [
             {
                 "answerText": "c",
@@ -772,6 +776,7 @@
     {
         "questionNumber": "Câu 36:",
         "questionText": "Cho cơ sở tri thức KB ở bên phải. Ta không chứng minh được kết quả nào sau đây: (Hình ảnh)",
+        "image": "assets/36.png",
         "answers": [
             {
                 "answerText": "u",

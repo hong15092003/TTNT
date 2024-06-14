@@ -9,7 +9,11 @@ function displayQuiz(questions) {
         const questionDiv = document.createElement('div');
         questionDiv.classList.add('question');
         questionDiv.innerHTML = `<h3>${question.questionNumber} ${question.questionText}</h3>`;
-
+        if (question.image) {
+            const img = document.createElement('img');
+            img.src = question.image;
+            questionDiv.appendChild(img);
+        }
         // Tạo danh sách đáp án dạng radio button
         const answerList = document.createElement('form');
         question.answers.forEach((answer, answerIndex) => {
@@ -48,8 +52,9 @@ function displayQuiz(questions) {
 
         questionDiv.appendChild(answerList);
         quizContainer.appendChild(questionDiv);
+
     });
-    quizContainer.style.border = '2px solid #D9D9D9';
+
 
 
 }
@@ -77,4 +82,3 @@ window.addEventListener('scroll', function () {
         quiz.style.height = scrollHeight + 'px';
     }
 });
-
