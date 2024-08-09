@@ -6,6 +6,7 @@ function displayQuiz(questions) {
     let totalCorrect = 0;
 
     questions.forEach((question, index) => {
+        
         const questionDiv = document.createElement('div');
         questionDiv.classList.add('question');
         questionDiv.innerHTML = `<h3>${question.questionNumber} ${question.questionText}</h3>`;
@@ -60,10 +61,11 @@ function displayQuiz(questions) {
 }
 
 // Lấy dữ liệu từ file JSON và hiển thị
-fetch('questions.json')
+fetch('question_cdsv.json')
     .then(response => response.json())
     .then(questions => {
         displayQuiz(questions);
+        
     });
 
 window.addEventListener('scroll', function () {
