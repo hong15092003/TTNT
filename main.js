@@ -61,7 +61,7 @@ function displayQuiz(questions) {
 }
 
 // Lấy dữ liệu từ file JSON và hiển thị
-fetch('question_cdsv.json')
+fetch('questions/question_cdsv.json')
     .then(response => response.json())
     .then(questions => {
         displayQuiz(questions);
